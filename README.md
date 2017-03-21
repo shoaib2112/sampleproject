@@ -1,1 +1,1 @@
-# myweb-project-nagireddy
+# sample project
